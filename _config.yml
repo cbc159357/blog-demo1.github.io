@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: https://github.com/cbc159357/blog-demo1.github.io.git
-  branch: gh-pages
+  branch: 
